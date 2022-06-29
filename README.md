@@ -5,7 +5,5 @@ Official MHT software accoount
     ELIF YAZILIM
     MHT YAZILIM
 
-1. Mehtap Turkbeyler
-2. Elif Nil Yaltirik
-3. ismet Doruk Yaltirik
-4. Emrah Yaltirik
+1. Elif Nil YALTIRIK
+2. ismet Doruk YALTIRIK
